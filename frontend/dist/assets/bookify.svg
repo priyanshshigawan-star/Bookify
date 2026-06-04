@@ -1,0 +1,12 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 35" width="120" height="35">
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 24px;fill: #ffffff;font-weight: 400;font-family: "PlayfairDisplayRoman-SemiBold", "Playfair Display" } 
+		.s1 { fill: #ffffff } 
+	</style>
+	<text id="Bookify" style="transform: matrix(1,0,0,1,31,27)" >
+		<tspan x="0" y="0" class="t0">B</tspan><tspan  y="0" class="t0">o</tspan><tspan  y="0" class="t0">o</tspan><tspan  y="0" class="t0">k</tspan><tspan  y="0" class="t0">i</tspan><tspan  y="0" class="t0">f</tspan><tspan  y="0" class="t0">y
+</tspan>
+	</text>
+	<path fill-rule="evenodd" class="s1" d="m5.24 8.2l2.7-1.68c2.71-1.68 4.06-2.52 5.56-2.52 1.5 0 2.85 0.84 5.56 2.52l2.7 1.68c2.56 1.59 3.84 2.38 4.54 3.66 0.7 1.28 0.7 2.83 0.7 5.92v2.05c0 5.26 0 7.9-1.58 9.53-1.58 1.64-4.13 1.64-9.22 1.64h-5.4c-5.09 0-7.64 0-9.22-1.64-1.58-1.63-1.58-4.27-1.58-9.53v-2.05c0-3.09 0-4.64 0.7-5.92 0.7-1.28 1.98-2.07 4.54-3.66zm4.81 13.89c-0.45-0.34-1.08-0.24-1.41 0.21-0.34 0.45-0.24 1.08 0.21 1.41 1.31 0.98 2.92 1.55 4.65 1.55 1.73 0 3.34-0.57 4.65-1.55 0.45-0.33 0.55-0.96 0.21-1.41-0.33-0.45-0.96-0.55-1.41-0.21-0.99 0.73-2.17 1.15-3.45 1.15-1.28 0-2.46-0.42-3.45-1.15z"/>
+</svg>
